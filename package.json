@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/bayuinzaghi4/apprestapi/issues"
   },
-  "homepage": "https://github.com/bayuinzaghi4/apprestapi#readme"
+  "homepage": "https://github.com/bayuinzaghi4/apprestapi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mysql": "^2.18.1"
+  }
 }
